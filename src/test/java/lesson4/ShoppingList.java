@@ -11,6 +11,8 @@ import static io.restassured.RestAssured.given;
 
 public class ShoppingList extends AbstractTest{
 
+    ///my
+
     AddShoppingListRequest listJson = new AddShoppingListRequest("1 package baking powder", "Baking", true);
     int a;
 
